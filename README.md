@@ -1,29 +1,89 @@
-Hi there, I'm Stephen Power 👋
-Location: Waterford, Ireland
+Hi, I’m Stephen Power 👋
 
-I'm a passionate student at the Waterford Institute of Technology (SETU), pursuing an Honours degree in Software Systems Development. I love coding, solving problems, and constantly learning new technologies.
+📍 Ireland
 
-🚀 Skills & Technologies
-Languages: JavaScript, HTML, CSS
-Frameworks & Libraries: React, Node.js
-Tools: Git, GitHub
-Other: Web Development, Agile Methodologies
-🛠️ Projects
-odin-recipes
-A collection of recipes created as part of the Odin Project. This project helped me enhance my HTML and CSS skills.
+I’m a final-year B.Sc. (Hons) Software Systems Development student at SETU, with a strong interest in backend software engineering, distributed systems, and building reliable applications. I enjoy solving problems, writing clean code, and learning how real-world systems are built and maintained.
 
-landing-page
-A simple, clean landing page project showcasing my ability to create responsive and attractive web pages.
+I’ve completed a Software Engineering internship at ACI Worldwide, where I worked on enterprise payment systems used by tier-1 global banks. I’m now focused on preparing for graduate software engineering roles.
 
-javascript-exercises
-Forked from The Odin Project, this repository includes various JavaScript exercises that demonstrate my proficiency in JavaScript.
+⸻
+
+🛠️ Skills & Technologies
+
+Languages
+	•	Java (primary)
+	•	Python
+	•	JavaScript / TypeScript
+	•	HTML, CSS
+	•	Bash
+
+Backend & Systems
+	•	REST APIs (Node.js, Express, Flask)
+	•	SQL & relational databases
+	•	MongoDB (intro)
+	•	Secure backend development
+
+DevOps & Tools
+	•	Git & GitHub
+	•	Docker & Docker Compose
+	•	CI/CD pipelines
+	•	Linux (Ubuntu, Red Hat)
+	•	Maven, JUnit
+
+Cloud
+	•	Microsoft Azure (fundamentals)
+	•	AWS (introductory)
+
+⸻
+
+💼 Experience
+
+Software Engineer Intern – ACI Worldwide
+	•	Worked on high-value payment systems used by global banks
+	•	Wrote 530+ Java JUnit tests, increasing code coverage from 45% → 60%
+	•	Improved code quality using SonarQube
+	•	Worked in Agile teams using Git, Jira, Linux, Maven, and CI workflows
+
+⸻
+
+🧪 Projects (Selected)
+	•	Web-Based Passwordless Authentication System (Final Year Project)
+Passwordless login system using WebAuthn / FIDO2 passkeys
+	•	React (Vite + TypeScript) frontend
+	•	Flask + Python backend
+	•	PostgreSQL + Redis
+	•	Docker Compose deployment
+	•	Movie Watchlist App
+Full-stack app integrating external APIs with persistent storage
+	•	Setufy
+University project focused on backend APIs and frontend integration
+	•	Web Scraper (Python)
+Automated data extraction and processing
+	•	Space Shooter / Angry Goblin
+Game projects demonstrating OOP, event handling, and game loops
+
+⸻
+
+🧠 Problem Solving
+	•	Solved 160+ LeetCode problems
+	•	Focus on:
+	•	Arrays & strings
+	•	Hash tables
+	•	Binary search
+	•	Recursion & dynamic programming
+
+⸻
 
 🌱 Currently Learning
-Advanced JavaScript
-React Native for mobile app development
-Cloud Computing with AWS
-📫 How to reach me
-LinkedIn: Stephen Power
-Email: stephen.power0320@gmail.com
-⚡ Fun Fact
-I love hiking and exploring new places when I'm not coding!
+	•	Distributed systems concepts
+	•	Cloud infrastructure
+	•	Secure authentication & identity
+	•	System design fundamentals
+
+⸻
+
+📫 Contact
+	•	Email: stephenpower03@gmail.com
+	•	LinkedIn: www.linkedin.com/in/stephen-power-552503252
+
+⸻
